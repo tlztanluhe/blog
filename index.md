@@ -1,1 +1,1 @@
-- [Link to another page](another-page).
+- [Link to another page](github_blog-page).
