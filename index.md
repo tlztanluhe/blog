@@ -1,1 +1,1 @@
-- [Link to another page](github_blog-page).
+- [Link to another page](/docs/github_blog-page).
