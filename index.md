@@ -1,1 +1,1 @@
-- [我的github博客](/docs/gihub_blog.md)
+- [我的github博客](gihub_blog)
