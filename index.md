@@ -1,1 +1,1 @@
-- [我的github博客](gihub_blog)
+- [Link to another page](another-page).
